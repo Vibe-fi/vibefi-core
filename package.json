@@ -1,7 +1,8 @@
 {
   "name": "@vibefi/core",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "VibeFi Core SDK. `npm install @vibefi/core`",
+  "homepage": "https://github.com/Vibe-fi/vibefi-core#readme",
   "main": "dist/index.js",
   "module": "dist/index.m.js",
   "unpkg": "dist/index.umd.js",
@@ -27,5 +28,16 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/Vibe-fi/vibefi-core/issues",
+    "email": "yo@vibesquad.co"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vibe-fi/vibefi-core.git"
+  },
+  "engines": {
+    "node": ">=20.5.1"
+  }
 }
