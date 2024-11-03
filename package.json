@@ -1,6 +1,6 @@
 {
   "name": "@vibefi/core",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "VibeFi Core SDK. `npm install @vibefi/core`",
   "main": "dist/index.js",
   "module": "dist/index.m.js",
@@ -16,7 +16,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "anistark",
   "license": "GPL-3.0-or-later",
   "devDependencies": {
     "microbundle": "0.15.0"
